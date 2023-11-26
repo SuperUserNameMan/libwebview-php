@@ -1,9 +1,9 @@
 # libwebview-php
-FFI wrapper for [webview](https://github.com/webview/webview)
+PHP-8.1 FFI wrapper for [webview](https://github.com/webview/webview)
 
 # How to :
 
-Compile your own `libwebview.so` or `libwebview.dll` following isntructions at [webview](https://github.com/webview/webview).
+Compile your own `libwebview.so` or `libwebview.dll` following instructions at [webview](https://github.com/webview/webview).
 
 Copy `libwebview.h` and `libwebview.php` with the compiled library.
 
